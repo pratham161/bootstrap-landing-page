@@ -1,0 +1,128 @@
+#title{
+  background-color: #ff4c68;
+  color: white;
+}
+
+#features{
+  text-align: center;
+   padding: 7% 15%;
+  font-size: 1rem;
+  background-color: white;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 4rem;
+  padding-top: 4rem;
+}
+
+#footer{
+  text-align: center;
+  font-size: 2rem;
+  padding-top: 2rem;
+}
+
+
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+#pricing{
+  padding: 100px;
+}
+
+#press{
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;
+}
+
+body{
+    font-family: 'Montserrat-black', sans-serif;
+}
+h1{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  color: white;
+}
+
+h2{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+
+.ficon{
+  color:#ff4c68;
+  font-size: 4rem;
+}
+.ficon:hover{
+  color: red;
+}
+
+
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.press-logo{
+   width: 15%;
+   margin: 20px 20px 50px;
+}
+
+.col-lg-6{
+  padding-top: 3rem;
+}
+.nav-item{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-size: 1.5rem;
+}
+
+.doggy{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.iphone{
+  transform: rotate(25deg);
+  width: 50%;
+  right: 30%;
+}
+
+.logo{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+
+}
+.container-fluid{
+   padding: 3% 15%;
+}
+.dbtn{
+  margin: 5% 3% 5% 0;
+}
+
+.pcard{
+  padding: 3% 2%;
+  text-align: center;
+}
+
+.Copyright{
+  padding-top: 2rem;
+}
+
+.page{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
